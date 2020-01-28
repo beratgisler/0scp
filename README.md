@@ -19,4 +19,6 @@ This repo about the oscp stuff
 - Badchars
 - Reverse shells
 - Useful powershell tricks
+
+** thx for all friends **
 ```
