@@ -1,0 +1,31 @@
+Windows Machines Guide:
+
+*----->  https://guif.re/windowseop
+*-------> https://www.fuzzysecurity.com/tutorials/16.html
+*---------> https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+
+**Bonus----> https://lolbas-project.github.io/# --> this one is same the Gtfo :)
+
+Windows Enumeration Scripts:
+
+*-----> https://github.com/411Hall/JAWS
+*-------> https://github.com/rasta-mouse/Sherlock
+*---------> https://github.com/PowerShellMafia/PowerSploit
+*------------> https://github.com/codingo/OSCP-2/tree/master/Windows
+*---------------> https://github.com/AonCyberLabs/Windows-Exploit-Suggester
+*------------------> https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS **This one is my favorite**
+
+Linux Machines Guide:
+
+*-----> https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ **this one is favorite**
+*-------> https://payatu.com/guide-linux-privilege-escalation
+*---------> https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html
+
+**Bonus------> https://gtfobins.github.io/ --> Linux god mode 
+
+Linux Enumeration Scripts:
+
+*-----> https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS **this one is my favorite**
+*-------> https://github.com/rebootuser/LinEnum
+*---------> https://github.com/sleventyeleven/linuxprivchecker
+*-----------> https://github.com/Arr0way/linux-local-enumeration-script
